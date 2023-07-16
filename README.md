@@ -15,8 +15,7 @@ Recall Score
 confusion matrix
 ROC_AUC score
 Accuracy score
-
-                                                                Recall score precision score f1 score accuracy ROC_AUC_score
+                                                                  precision    f1              recall     accuracy   ROC_AUC
 Logistic Regression                                              	0.977323	    0.255166  	   0.404676  	0.653248	0.793066
 Logistic Regression after tuning	                                0.977690	   0.255182    	0.404728	  0.653193	  0.793193
 Random Forest	                                                    0.327580	   0.336858    	0.332154	  0.841150	  0.619576
